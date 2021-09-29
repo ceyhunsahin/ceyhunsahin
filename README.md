@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## Sharpening the knife longer can make it easier to hack the firewood – old Chinese proverb
+
 <!--
 **ceyhunsahin/ceyhunsahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
